@@ -242,10 +242,10 @@
                         <div class="pt-4 mt-4 border-t border-neutral-200/80">
                             <p class="px-3 text-sm text-neutral-500 mb-6">Terhubung dengan kami di media sosial.</p>
                             <div class="flex items-center space-x-4 px-3">
-                                <a href="https://www.instagram.com/infunuha?utm_source=ig_web_button_share_sheet&igsh=MXZ2aGF1NzdhZWFyeg==" class="text-neutral-500 hover:text-primary-600 transition-colors">
+                                <a href="https://www.instagram.com/m_rahman08/" class="text-neutral-500 hover:text-primary-600 transition-colors">
                                     <i data-lucide="instagram" class="w-6 h-6"></i>
                                 </a>
-                                <a href="https://www.facebook.com/prodi.inf.unuha/" class="text-neutral-500 hover:text-primary-600 transition-colors">
+                                <a href="https://web.facebook.com/miftakhul.rahman.75" class="text-neutral-500 hover:text-primary-600 transition-colors">
                                     <i data-lucide="facebook" class="w-6 h-6"></i>
                                 </a>
                                 <a href="https://github.com/MiftakhulRahman" class="text-neutral-500 hover:text-primary-600 transition-colors">
@@ -298,9 +298,9 @@
                         
                         {{-- [MODIFIKASI] Mengganti Ikon Sosial Media di Footer --}}
                         <div class="flex space-x-4">
-                            <a href="https://www.instagram.com/infunuha?utm_source=ig_web_button_share_sheet&igsh=MXZ2aGF1NzdhZWFyeg==" class="text-neutral-500 hover:text-primary-600 transition-colors"><i
+                            <a href="https://www.instagram.com/m_rahman08/" class="text-neutral-500 hover:text-primary-600 transition-colors"><i
                                     data-lucide="instagram" class="w-5 h-5"></i></a>
-                            <a href="https://www.facebook.com/prodi.inf.unuha/" class="text-neutral-500 hover:text-primary-600 transition-colors"><i
+                            <a href="https://web.facebook.com/miftakhul.rahman.75" class="text-neutral-500 hover:text-primary-600 transition-colors"><i
                                     data-lucide="facebook" class="w-5 h-5"></i></a>
                             <a href="https://github.com/MiftakhulRahman" class="text-neutral-500 hover:text-primary-600 transition-colors"><i
                                     data-lucide="github" class="w-5 h-5"></i></a>
@@ -354,7 +354,7 @@
                 </div>
 
                 <div class="mt-12 pt-8 border-t border-neutral-200/80 text-center text-sm text-neutral-500">
-                    &copy; {{ date('Y') }} Repository Media UNUHA. All rights reserved.
+                    &copy; {{ date('Y') }} Miftakhul Rahman. All rights reserved.
                 </div>
             </div>
         </footer>
